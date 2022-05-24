@@ -1,9 +1,9 @@
 # Clone sito web "Hudson Ministres"
-Clone di un sito di una chiesa americana, adattato in italiano 
+Clone di un sito di una chiesa americana, adattato in italiano (no responsive)
 
 ## Linguaggi di programmazione utilizzati:
 - HTML5
-- CSS
+- CSS 3.0
 
 ## Elementi carratteristici del sito:
  - Utilizzo dei container div 

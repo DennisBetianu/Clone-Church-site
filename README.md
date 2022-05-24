@@ -1,4 +1,4 @@
-# Clone-Church-site
+# Clone sito web "Hudson Ministres"
 Clone di un sito di una chiesa americana, adattato in italiano 
 
 ## Linguaggi di programmazione utilizzati:

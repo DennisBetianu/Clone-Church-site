@@ -412,6 +412,19 @@ margin-bottom: 0;
     font-size: 18px;
 }
 
+
+.text {
+    margin-right: -150px;
+}
+
+
+.text2 {
+
+   margin-left: -150px; 
+
+
+}
+
 .container_text_chisiamo2 span{
     font-weight: bold;
     font-size: 18px;
@@ -914,6 +927,11 @@ margin-bottom: 0;
     transform: translate(-50%, -50%);
 } */
 
+
+
+.line_chiSiamo {
+    border-left: solid 1px #000000;
+}
 
 
 
